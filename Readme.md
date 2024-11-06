@@ -70,7 +70,7 @@ Distributed under the MIT License.
 ## 🙏 Acknowledgments
 
 - [Hugging Face](https://huggingface.co/) for their incredible transformers library
-- [ParlerTTS](https://github.com/parler-tts/parler-tts) for the TTS foundation
+- [ParlerTTS](https://huggingface.co/parler-tts) for the TTS foundation
 - The open-source community for continuous inspiration and support
 
 ## 📬 Contact
